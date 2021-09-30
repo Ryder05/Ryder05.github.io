@@ -1,7 +1,13 @@
 {
-  "short_name": "masterPortfolio",
-  "name": "masterPortfolio",
+  "short_name": "osamaportfolio",
+  "name": "osamaportfolio",
   "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "36x36",
+      "type": "image/x-icon"
+      }
+     ,
   {
    "src": "\/android-icon-36x36.png",
    "sizes": "36x36",
